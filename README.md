@@ -1,5 +1,11 @@
 
 # Backend-Engineering-LYFT
+What will i learned ?
+Software Architecture
+Refactoring
+Unit Testing
+Test-Driven Development
+
 This repo contains the codebase of the tasks included in the virtual experience program of Forage.
 
 ## Task 1: Come up with a clean design for an existing, unfinished component
